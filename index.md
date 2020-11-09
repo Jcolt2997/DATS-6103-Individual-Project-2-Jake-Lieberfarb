@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-< img src="Screen Shot 2020-11-09 at 5.23.55 PM.png" alt="Image n/a"/>
+<img src="Screen Shot 2020-11-09 at 5.23.55 PM.png" alt="Image n/a"/>
 
 [Link](url) and ![Image](src)
 ```
