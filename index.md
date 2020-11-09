@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+< img src="pic_trulli.jpg" alt="Italian Trulli"/>
+
 [Link](url) and ![Image](src)
 ```
 
