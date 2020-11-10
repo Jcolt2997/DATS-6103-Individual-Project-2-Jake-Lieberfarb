@@ -29,7 +29,7 @@ This is an analysis of Storm events from 2018-2019 to see which state and its re
 <img src="10_ 2019 Property Damage by State.png" alt="Image n/a"/>
 
 
-###What are the most common Storm Events?
+### What are the most common Storm Events?
 
 
 <img src="11_ 2018 most common storm events.png" alt="Image n/a"/>
@@ -41,7 +41,7 @@ This is an analysis of Storm events from 2018-2019 to see which state and its re
 <img src="14_2019 Storm Events.png" alt="Image n/a"/>
 
 
-###What are the causes of deaths by state and event?
+### What are the causes of deaths by state and event?
 
 
 <img src="15_Top 10 Fatalities of States by Event for 2018.png" alt="Image n/a"/>
@@ -61,7 +61,7 @@ This is an analysis of Storm events from 2018-2019 to see which state and its re
 <img src="20_Monthly count of storm events by state (2019).png" alt="Image n/a"/>
 
 
-###Which counties should an individual move to in Delaware and  Wyoming?
+### Which counties should an individual move to in Delaware and  Wyoming?
 
 
 <img src="21_Delaware Counties with Least Storm Events (2018).png" alt="Image n/a"/>
@@ -73,7 +73,7 @@ This is an analysis of Storm events from 2018-2019 to see which state and its re
 <img src="24_Wyoming COunties with Least storm Events (2019).png" alt="Image n/a"/>
 
 
-##Conclusion and other links 
+## Conclusion and other links 
 
 
 The two safest counties to live in based on counts of weather events would be Delaware Beaches county, Delaware and Lincoln or Teton County, Wyoming. One should move to Delaware in late Winter-early Spring or to Wyoming in September if they want to limit their chances of encountering a weather event. Delaware Beaches only had 8 weather events in 2018 and 6 in 2019. Lincoln county only had one weather event in 2018 and two weather events in 2019. Teton county had one weather event in 2018 and two in 2019. In regards to the most weather events each state had by year, in 2018 Delaware had 19 flash floods and 14 costal floods. In 2019 Delware had 80 thunderstorms and 20 hail storms. For Wyoming in 2018 it had 564 cases of high winds, and 259 cases of hail storms. In 2019, Wyoming had 319 hail storms and 236 cases of high winds. Although the types of weather events change for each state per year, these states will not be dealing with cataqstrophic events such as tornados on a regular basis. heat and excessive heat take most peoples' lives each year.  
