@@ -4,10 +4,9 @@ This is an analysis of Storm events from 2018-2019 to see which state and its re
 
 ## Visualizations:
 
-<img src=".png" alt="Image n/a"/>
-
 
 ### Which storm event causes the most property damage by state? 
+
 
 <img src="1_2018 Proportion of damages and State size.png" alt="Image n/a"/>
 
@@ -32,56 +31,53 @@ This is an analysis of Storm events from 2018-2019 to see which state and its re
 
 ###What are the most common Storm Events?
 
+
 <img src="11_ 2018 most common storm events.png" alt="Image n/a"/>
 
-<img src=".png" alt="Image n/a"/>
+<img src="12_2018 Storm Events.png" alt="Image n/a"/>
 
-<img src=".png" alt="Image n/a"/>
+<img src="13_2019 Most Common Storm Events.png" alt="Image n/a"/>
 
-<img src=".png" alt="Image n/a"/>
+<img src="14_2019 Storm Events.png" alt="Image n/a"/>
 
-<img src=".png" alt="Image n/a"/>
 
-<img src=".png" alt="Image n/a"/>
+###What are the causes of deaths by state and event?
 
-<img src=".png" alt="Image n/a"/>
 
-<img src=".png" alt="Image n/a"/>
+<img src="15_Top 10 Fatalities of States by Event for 2018.png" alt="Image n/a"/>
 
-<img src=".png" alt="Image n/a"/>
+<img src="16_Top 10 Fatalities of States by Event for 2019.png" alt="Image n/a"/>
 
-<img src=".png" alt="Image n/a"/>
+<img src="17_Top 10 types of deaths by State (2018).png" alt="Image n/a"/>
 
-<img src=".png" alt="Image n/a"/>
+<img src="18_Top types of deaths by State(2019).png" alt="Image n/a"/>
 
-<img src=".png" alt="Image n/a"/>
 
-<img src=".png" alt="Image n/a"/>
+###When would be the most optimal time to move to one of these States?
 
-<img src=".png" alt="Image n/a"/>
+
+<img src="19_Monthly count of storm events by state (2018).png" alt="Image n/a"/>
+
+<img src="20_Monthly count of storm events by state (2019).png" alt="Image n/a"/>
+
+
+###Which counties should an individual move to in Delaware and  Wyoming?
+
+
+<img src="21_Delaware Counties with Least Storm Events (2018).png" alt="Image n/a"/>
+
+<img src="22_Delaware Counties with Least SAtorm Events (2019).png" alt="Image n/a"/>
+
+<img src="23_Wyoming Counties with Least Storm Events (2018).png" alt="Image n/a"/>
+
+<img src="24_Wyoming COunties with Least storm Events (2019).png" alt="Image n/a"/>
+
 
 ##Conclusion and other links 
 
 
-- Bulleted
-- List
+The two safest counties to live in based on counts of weather events would be Delaware Beaches county, Delaware and Lincoln or Teton County, Wyoming. One should move to Delaware in late Winter-early Spring or to Wyoming in September if they want to limit their chances of encountering a weather event. Delaware Beaches only had 8 weather events in 2018 and 6 in 2019. Lincoln county only had one weather event in 2018 and two weather events in 2019. Teton county had one weather event in 2018 and two in 2019. In regards to the most weather events each state had by year, in 2018 Delaware had 19 flash floods and 14 costal floods. In 2019 Delware had 80 thunderstorms and 20 hail storms. For Wyoming in 2018 it had 564 cases of high winds, and 259 cases of hail storms. In 2019, Wyoming had 319 hail storms and 236 cases of high winds. Although the types of weather events change for each state per year, these states will not be dealing with cataqstrophic events such as tornados on a regular basis. heat and excessive heat take most peoples' lives each year.  
 
-1. Numbered
-2. List
+link to Zenodo: [Jake's Zenodo]()
 
-**Bold** and _Italic_ and `Code` text
-
-
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jcolt2997/DATS-6103-Individual-Project-2-Jake-Lieberfarb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+link to github repository: [Jake's github page] ()
