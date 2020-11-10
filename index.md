@@ -53,7 +53,7 @@ This is an analysis of storm events from 2018-2019 to see which state and county
 <img src="18_Top types of deaths by State(2019).png" alt="Image n/a"/>
 
 
-###When would be the most optimal time to move to one of these States?
+### When would be the most optimal time to move to one of these States?
 
 
 <img src="19_Monthly count of storm events by state (2018).png" alt="Image n/a"/>
