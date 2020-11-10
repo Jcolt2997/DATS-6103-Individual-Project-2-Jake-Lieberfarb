@@ -80,5 +80,5 @@ The two safest counties to live in based on counts of weather events would be De
 
 link to Zenodo: [Jake's Zenodo]()
 
-link to github repository: [Jake's github page] (https://github.com/Jcolt2997/DATS-6103-Individual-Project-2-Jake-Lieberfarb--project-files)
+link to github repository: [Jake's github page](https://github.com/Jcolt2997/DATS-6103-Individual-Project-2-Jake-Lieberfarb--project-files)
 
