@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+# Introduction
+### Where is the safest county and state to live in the US?  By Jake Lieberfarb
+This is an analysis of Storm events from 2018-2019 to see which state and its respective county are the safest for an individual to life. Data was pulled from a [NOAA dataset](https://www.ncdc.noaa.gov/stormevents/ftp.jsp). "Safe" is defined as the state which sees a low total property damage brought on by storm events proportional to its size. Below are the questions asked to get to the final conclusion on which state and their county are the safest for someone to live in. 
 
-You can use the [editor on GitHub](https://github.com/Jcolt2997/DATS-6103-Individual-Project-2-Jake-Lieberfarb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Visualizations:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="Screen Shot 2020-11-09 at 5.23.55 PM.png" alt="Image n/a"/>
 
 
-Syntax highlighted code block
+### Which storm event causes the most property damage by state? 
 
-# Header 1
-## Header 2
-### Header 3
+<img src="1_2018 Proportion of damages and State size.png" alt="Image n/a"/>
+
 
 - Bulleted
 - List
@@ -23,7 +20,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-<img src="Screen Shot 2020-11-09 at 5.23.55 PM.png" alt="Image n/a"/>
+
 
 [Link](url) and ![Image](src)
 
