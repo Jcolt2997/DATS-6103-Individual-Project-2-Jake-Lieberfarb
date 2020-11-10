@@ -4,12 +4,63 @@ This is an analysis of Storm events from 2018-2019 to see which state and its re
 
 ## Visualizations:
 
-<img src="Screen Shot 2020-11-09 at 5.23.55 PM.png" alt="Image n/a"/>
+<img src=".png" alt="Image n/a"/>
 
 
 ### Which storm event causes the most property damage by state? 
 
 <img src="1_2018 Proportion of damages and State size.png" alt="Image n/a"/>
+
+<img src="2_2018 Property Damage by state with California.png" alt="Image n/a"/>
+
+<img src="3_2018 property damag by state without California.png" alt="Image n/a"/>
+
+<img src="4_Histogram of 2018 Property Damage.png" alt="Image n/a"/>
+
+<img src="5_2019 Proportion of damages and State size.png" alt="Image n/a"/>
+
+<img src="6_2019 Property Damage by state with Texas.png" alt="Image n/a"/>
+
+<img src="7_2019 Property Damage by state without Texas.png" alt="Image n/a"/>
+
+<img src="8_Histogram of 2019 Property Damage.png" alt="Image n/a"/>
+
+<img src="9_2018 Property Damage by State.png" alt="Image n/a"/>
+
+<img src="10_ 2019 Property Damage by State.png" alt="Image n/a"/>
+
+
+###What are the most common Storm Events?
+
+<img src="11_ 2018 most common storm events.png" alt="Image n/a"/>
+
+<img src=".png" alt="Image n/a"/>
+
+<img src=".png" alt="Image n/a"/>
+
+<img src=".png" alt="Image n/a"/>
+
+<img src=".png" alt="Image n/a"/>
+
+<img src=".png" alt="Image n/a"/>
+
+<img src=".png" alt="Image n/a"/>
+
+<img src=".png" alt="Image n/a"/>
+
+<img src=".png" alt="Image n/a"/>
+
+<img src=".png" alt="Image n/a"/>
+
+<img src=".png" alt="Image n/a"/>
+
+<img src=".png" alt="Image n/a"/>
+
+<img src=".png" alt="Image n/a"/>
+
+<img src=".png" alt="Image n/a"/>
+
+##Conclusion and other links 
 
 
 - Bulleted
